@@ -1,5 +1,6 @@
 {
   "name": "udd-crisp-channels",
+  "version": "0.1.0",
   "description": "Integración de canales Crisp UDD",
   "main": "udd-crisp-channels.js",
   "repository": "git@github.com:bloom-ux/udd-crisp-channels.git",
